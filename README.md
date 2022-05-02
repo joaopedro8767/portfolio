@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## joao pedro santana 
 
-You can use the [editor on GitHub](https://github.com/joaopedro8767/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## tenho 16 anos sou babeiro proficional, trabalho hj em dia em umas das maiores barbearia em franca-sp mais tenho um sonho de abrir minha propria barbearia para realizar meus sonhos, mais sei quebra isso tenho que trabalhar muito ainda 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+trabalho na aria de barbeiro a 2 anos e entre esses 2 anos fiz 11 cursos 3 de barba, e 8 de cabeolo 2 deles foi com seus Elias um dos melhores barbeiro do mundo hj em dia mais os cursos dele foi workshop so asistir mais foi os melhores que fiz ate hojem 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
